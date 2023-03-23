@@ -1,3 +1,6 @@
+This ReadMe is about Djangox, the initial clone I have used from https://wsvincent.com/djangox-new-starter-framework/ Djangox is a compilation of Django work that Will Vincent did and published in three very readible books. Please view his sites, easy to find through google search Vincent Django.
+
+
 > A batteries-included Django starter project. To learn more try the books [Django for Beginners](https://djangoforbeginners.com), [Django for APIs](https://djangoforapis.com), and [Django for Professionals](https://djangoforprofessionals.com).
 
 ## 🚀 Features
